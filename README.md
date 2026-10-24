@@ -145,7 +145,7 @@ Keep building.
   included below. The files do not exist until the workflow runs.
 -->
 
-<img width="100%" src="https://raw.githubusercontent.com/sakad1m/Pedro-Lopes/output/github-contribution-grid-snake-dark.svg" alt="Animated snake traversing the GitHub contribution graph"/>
+<img width="100%" src="https://raw.githubusercontent.com/sakad1m/sakad1m/output/github-contribution-grid-snake-dark.svg" alt="Animated snake traversing the GitHub contribution graph"/>
 
 </div>
 
@@ -184,7 +184,7 @@ Keep building.
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Pedro-Lopes/sakad1m/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/sakad1m/sakad1m/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake animation"
     width="100%"
   />
