@@ -181,16 +181,3 @@ Keep building.
 [ SYSTEM STATUS: OPERATIONAL ]
 [ NEXT OBJECTIVE: BUILD SOMETHING EXTRAORDINARY ]
 ```
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/sakad1m/sakad1m/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</div>
-
-
-<sub>Designed with curiosity, powered by code, improved with every commit.</sub>
-
-</div>
